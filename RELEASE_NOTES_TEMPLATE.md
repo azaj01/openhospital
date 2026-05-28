@@ -21,7 +21,7 @@ _Brought to you by [Informatici Senza Frontiere](https://github.com/informatici)
 ### Languages
 English, Albanian, Arabic, Chinese (simplified), French, German, Italian, Portuguese, Spanish, Swahili
 
-*Brought to you by [Transifex community](https://www.transifex.com/informatici-senza-frontiere-onlus/openhospital/dashboard/)*
+*Brought to you by [Transifex community](https://app.transifex.com/informatici-senza-frontiere-onlus/openhospital/dashboard/)*
 
 
 <details>
