@@ -16,7 +16,7 @@ Released on _RELEASE_DATE_
 ### Special thanks to:
 -->
 
-_Brought to you by [Informatici Senza Frontiere](https://github.com/informatici)_
+_Brought to you by [Informatici Senza Frontiere](http://www.informaticisenzafrontiere.org/)_
 
 ### Languages
 English, Albanian, Arabic, Chinese (simplified), French, German, Italian, Portuguese, Spanish, Swahili
